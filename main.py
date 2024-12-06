@@ -4,6 +4,7 @@ from sentiment_analyzer import analyze_sentiment
 from subject_determiner import determine_subject
 from headline_deduper import dedupe_headlines
 from datetime import datetime
+from subprocess import Popen, PIPE
 
 def main():
   for file in os.listdir("scrapers/"):
@@ -43,6 +44,18 @@ def main():
 
       except Exception as e:
         print(f"There was an error: {e}")
+
+      daily_commit = Popen(
+        "daily_update.bat", 
+        shell=True,
+        stdout=PIPE,
+        stderr=PIPE
+      )
+
+      stdout, stderr = daily_commit.communicate()
+
+      with open("log.txt", "a", encoding="utf-8") as file:
+        file.write(stderr)
 
 if __name__ == "__main__":
   main() 
