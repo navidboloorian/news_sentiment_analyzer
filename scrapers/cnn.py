@@ -12,8 +12,7 @@ def get_headlines():
 
   for heading in headings:
     try:
-      headline = heading.contents[0]
-      headlines.add(headline)
+      headlines.add(heading.contents[0])
     except:
       continue
 
