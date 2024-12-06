@@ -52,7 +52,7 @@ def main():
         stderr=PIPE
       )
 
-      # _, stderr = daily_commit.communicate()
+      _, stderr = daily_commit.communicate()
 
       with open("log.txt", "a", encoding="utf-8") as file:
         file.write(stderr)
