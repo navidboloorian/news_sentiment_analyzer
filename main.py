@@ -39,7 +39,7 @@ def main():
 
           with open("data.csv", "a", encoding="utf-8") as file:
             for i in range(len(headlines)):
-              line = f"{module_name},{subjects[i]},{headlines[i]},{sentiments[i]},{datetime.today().strftime('%Y-%m-%d')}\n"
+              line = f"{module_name},{subjects[i]},\"{headlines[i]}\",{sentiments[i]},{datetime.today().strftime('%Y-%m-%d')}\n"
               file.write(line)
 
       except Exception as e:
@@ -52,7 +52,7 @@ def main():
         stderr=PIPE
       )
 
-      stdout, stderr = daily_commit.communicate()
+      # _, stderr = daily_commit.communicate()
 
       with open("log.txt", "a", encoding="utf-8") as file:
         file.write(stderr)
