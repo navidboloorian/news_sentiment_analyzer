@@ -4,10 +4,10 @@ def determine_subject(headlines):
   prompt = """
     Given the following headline, determine the subject. 
     Respond with only the subject name, no explanation or introduction is necessary (i.e. don't do subject: [subject name]).
-    The list of possible subjects includes and is limited to: 'Biden', 'Harris', 'Trump', 'Republicans', 'Democrats'.
+    The list of possible subjects includes and is limited to: 'Republicans', 'Democrats'.
     The subject doesn't necessarily need to be direct. For instance, if a headline contains 'Mitch McConnell' that can be grouped as 'Republicans'. 
     If a headline doesn't fall into any of these categories, return 'N/A'.
-    A headline shouldn't be classified with multiple subjects, individuals take precedence over party.
+    A headline shouldn't be classified with multiple subjects.
     Here is the headline:
   """
 
