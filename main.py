@@ -55,7 +55,7 @@ def main():
       _, stderr = daily_commit.communicate()
 
       with open("log.txt", "a", encoding="utf-8") as file:
-        file.write(stderr)
+        file.write(stderr.decode("utf-8"))
 
 if __name__ == "__main__":
   main() 
