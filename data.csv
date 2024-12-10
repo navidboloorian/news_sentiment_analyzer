@@ -48,7 +48,7 @@ cnn,Republicans,"‘Are you worried Donald Trump will try to put you in jail?’
 cnn,Democrats,"Alexandria Ocasio-Cortez announces bid to become top Democrat on Oversight Committee",1.7787725925445557,2024-12-08
 cnn,Democrats,"Voters elected the most closely divided House since the Great Depression and WWI",0.6261511445045471,2024-12-08
 cnn,Republicans,"Hegseth and Collins’ push for cutting veterans’ health benefits alarms service members and veterans groups",0.549272894859314,2024-12-08
-cnn,Democrats,"Fact check: Trump, repeating old lies on ‘Meet the Press,’ falsely claims US is the only country with birthright citizenship ",0.6053785085678101,2024-12-08
+cnn,Republicans,"Fact check: Trump, repeating old lies on ‘Meet the Press,’ falsely claims US is the only country with birthright citizenship ",0.6053785085678101,2024-12-08
 cnn,Democrats,"Why green investments have become the last line of defense for Biden’s climate agenda ",1.7663025259971619,2024-12-08
 fox,Republicans,"Biden legacy includes relentless push for transgender agenda",1.7712600231170654,2024-12-08
 fox,Republicans,"Fox News Politics: Tipping the Scales to the Left",1.8288313746452332,2024-12-08
@@ -61,9 +61,9 @@ fox,Republicans,"Nancy Mace ‘loves’ Trump’s unconventional admin picks: �
 fox,Republicans,"Trump names Alina Habba as counselor to the president; reveals several State Department picks",1.9367019534111023,2024-12-08
 fox,Republicans,"Intel officials warn China is the most active, persistent cyber threat to US",0.5811894536018372,2024-12-08
 fox,Republicans,"'Political price to pay': Trump orbit expected to ramp up Ernst criticisms while she withholds Hegseth support",0.5401604771614075,2024-12-08
-fox,Democrats,"Trump sends message to Kamala Harris supporters during 'Meet the Press' interview",1.923891544342041,2024-12-08
+fox,Republicans,"Trump sends message to Kamala Harris supporters during 'Meet the Press' interview",1.923891544342041,2024-12-08
 fox,Republicans,"Syrian rebel takeover will have a ‘remarkable’ ripple effect equivalent to the Berlin Wall, GOP rep predicts",1.5794103741645813,2024-12-08
-fox,Democrats,"Trump features Jill Biden in new ad for fragrance: 'Enemies can't resist'",1.6987833380699158,2024-12-08
+fox,Republicans,"Trump features Jill Biden in new ad for fragrance: 'Enemies can't resist'",1.6987833380699158,2024-12-08
 fox,Republicans,"Biden, Trump both rip DOJ after president pardons Hunter",1.6413549184799194,2024-12-08
 fox,Republicans,"Fox News Politics: Gunning for the 2nd Amendment",1.67792809009552,2024-12-08
 fox,Republicans,"Trump responds after rebels overtake Syria, ousting longtime dictator: ‘Assad is gone’",1.7190576791763306,2024-12-08
@@ -76,11 +76,22 @@ fox,Democrats,"Daniel Penny defense may have been handed 'partial victory' with 
 fox,Republicans,"Trump expected to target Biden's climate policies in 2025",1.8402892351150513,2024-12-08
 fox,Republicans,"Donald Trump says he'll pardon Jan. 6 rioters on day one: 'Acting very quickly'",2.546656906604767,2024-12-08
 fox,Democrats,"AOC launches bid for top Democratic role on House Oversight Committee",1.7522810101509094,2024-12-08
-fox,Republicans,"Faith in DOJ plummets as Biden, pardoning Hunter, joins Trump in denouncing the department",0.6573978066444397,2024-12-08
+fox,Democrats,"Faith in DOJ plummets as Biden, pardoning Hunter, joins Trump in denouncing the department",0.6573978066444397,2024-12-08
 fox,Democrats,"Fall of Assad regime a 'moment of historic opportunity' for Syrian people, Biden says",1.6224586367607117,2024-12-08
 fox,Republicans,"REBECCA GRANT: Assad's ouster makes Syria the key to elusive Middle East peace",1.7937049269676208,2024-12-08
 fox,Republicans,"Trump previews inauguration speech, gives details on plans to dismantle the deep state in NBC interview",1.7530290484428406,2024-12-08
 fox,Republicans,"Trump maintains support for Hegseth",1.7727808952331543,2024-12-08
-fox,Democrats,"Gunmen storm Iranian embassy in Damascus as Russia claims Assad left 'instructions' to 'transfer power'",0.5778481960296631,2024-12-08
 fox,Republicans,"Conservative group compiles list of 'woke' senior officers they want Pete Hegseth to fire",0.6111399531364441,2024-12-08
-fox,Republicans,"Experts warn Syrian rebel victory poses 'wildly complex' national security threat: 'Who knows what's next?'",0.6685152053833008,2024-12-08
+cnn,Republicans,"Supreme Court declines to review Boston case and ‘race neutral’ efforts to diversify public schools",1.754643976688385,2024-12-09
+cnn,Republicans,"Lara Trump to step down from RNC amid speculation over Florida Senate seat",1.7530473470687866,2024-12-09
+cnn,Republicans,"Supreme Court turns away Wisconsin parents who say schools are hiding transgender support plans as Alito dissents",1.655362069606781,2024-12-09
+cnn,Republicans,"Key lines: Trump’s ‘not playing games,’ he says in interview laying out 100-day agenda ",1.8569372296333313,2024-12-09
+cnn,Democrats,"Trump has big plans at home, but Syria shows why he can’t escape the world’s problems",0.6901631355285645,2024-12-09
+cnn,Republicans,"‘Someone who sees enemies everywhere’: How Kash Patel’s years as a government lawyer fueled his disdain for Washington elites",0.6224287748336792,2024-12-09
+cnn,Republicans,"Sen. Haggerty: Kash Patel focused on cleaning up FBI ",1.9228971600532532,2024-12-09
+cnn,Republicans,"Key GOP senators begin to fall in line to support Kash Patel and keep door open for Pete Hegseth",1.8070809245109558,2024-12-09
+cnn,Republicans,"Trump lays out sweeping early acts on deportation and January 6 pardons, says Cheney and others ‘should go to jail’",0.6429805159568787,2024-12-09
+cnn,Democrats,"US charges two former Syrian officials for allegedly torturing Americans and Syrian nationals ",0.7507367730140686,2024-12-09
+cnn,Democrats,"US military Osprey flights paused again amid safety questions",1.4985769391059875,2024-12-09
+cnn,Republicans,"Judge pauses lawsuit alleging Trump’s Education secretary pick enabled sexual abuse of children decades ago",0.7277489900588989,2024-12-09
+cnn,Republicans,"Key Republican says she will support Hegseth going through confirmation process ",1.8436885476112366,2024-12-09
