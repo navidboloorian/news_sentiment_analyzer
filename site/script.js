@@ -6,6 +6,9 @@ const createGraph = (source) => {
   const graphWrapper = document.querySelector("#graph-wrapper");
   const svg = document.createElement("svg");
 
+  const width = 500;
+  const height = 500;
+
   const xAxis = d3.scaleLinear();
 
   d3.select(svg)
