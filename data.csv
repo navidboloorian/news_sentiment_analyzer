@@ -1,191 +1,51 @@
-source,subject,headline,sentiment,date
-cnn,Republicans,"House Republicans vote to block release of Gaetz ethics report",1.5680838823318481,2024-12-08
-cnn,Republicans,"GOP rifts open over Trump agenda as legislative landmines await new Congress",1.6762136220932007,2024-12-08
-cnn,Republicans,"Trump allies work to save Hegseth in key test of president-elect’s relationship with Senate GOP",1.8161808252334595,2024-12-08
-cnn,Republicans,"Tracking Trump’s picks for his Cabinet and administration",1.844098150730133,2024-12-08
-cnn,Republicans,"Trump expresses confidence in Hegseth and says he can be confirmed to lead Pentagon",2.687965154647827,2024-12-08
-cnn,Democrats,"Top Dem on Senate Judiciary Committee: ‘I need to keep an open mind’ on Trump nominees ",1.8590711951255798,2024-12-08
-cnn,Republicans,"Trump has big plans at home, but Syria shows why he can’t escape the world’s problems ",0.31139546632766724,2024-12-08
-cnn,Democrats,"Biden offers a blueprint for US support in Syria, announces airstrikes against ISIS targets",1.7592523694038391,2024-12-08
-cnn,Republicans,"Trump lays out sweeping early acts on deportation and January 6 pardons, says Cheney and others ‘should go to jail’ ",0.34277278184890747,2024-12-08
-cnn,Democrats,"How these older voters who backed Harris are engaging in ‘quiet resistance’ ",1.7951104640960693,2024-12-08
-cnn,Republicans,"How a narrowly divided nation could frustrate Trump’s vast ambitions",0.454007089138031,2024-12-08
-cnn,Republicans,"As Hegseth’s public profile grew, he faced deepening private turmoil",0.46173280477523804,2024-12-08
-cnn,Republicans,"What will be the signature achievement of Trump 2.0?",1.7547494769096375,2024-12-08
-cnn,Republicans,"Hegseth’s name has been submitted for FBI background check, attorney says",1.95083749294281,2024-12-08
-cnn,Republicans,"Before DOGE, Ramaswamy spent years attacking Musk for ties to China ",1.5148953795433044,2024-12-08
-cnn,Republicans,"Macron’s Paris invite shows power fast flowing from Biden to Trump",1.6129109859466553,2024-12-08
-cnn,Republicans,"Musk spent more than a quarter-billion dollars to elect Trump, including funding a mysterious super PAC, new filings show",1.8237603902816772,2024-12-08
-cnn,Republicans,"Here’s what an FBI background check for Trump’s Cabinet picks could unveil – or not",1.8550063371658325,2024-12-08
-cnn,Democrats,"Biden White House considering preemptive pardons for Trump’s perceived enemies",1.8178778886795044,2024-12-08
-cnn,Republicans,"‘High on the list of items’: Ramaswamy threat to claw back Rivian loan sparks criticism of Musk’s conflict of interest",1.7972020506858826,2024-12-08
-cnn,Democrats,"Austin Tice’s family says he is alive and well, but they are deeply frustrated after meeting with Biden administration",0.2792471647262573,2024-12-08
-cnn,Republicans,"Trump returns to world stage for Notre Dame Cathedral reopening in Paris",1.583138883113861,2024-12-08
-cnn,Republicans,"Hegseth is still standing, but hasn’t yet saved his Pentagon bid",1.823860228061676,2024-12-08
-cnn,Democrats,"Biden’s pardon of his son makes presidential history ",2.8088170289993286,2024-12-08
-cnn,Republicans,"Even Iowa Republicans who initially wanted to move on from Trump see hope — and a mandate — in his win ",2.6515703201293945,2024-12-08
-cnn,Democrats,"Defense secretary announces nearly $1 billion in Ukraine aid as he forcefully argues for global US leadership",1.6163131594657898,2024-12-08
-cnn,Republicans,"‘Trump’s gonna pardon me anyways,’ January 6 rioter scoffs as he’s led from court to prison",0.4728838801383972,2024-12-08
-cnn,Republicans,"What Trump’s plan to replace the current IRS chief could mean for the agency",1.7637426853179932,2024-12-08
-cnn,Republicans,"Hegseth has a history of supporting controversial policies involving the military ",1.6958075761795044,2024-12-08
-cnn,Republicans,"Hegseth faces an ‘absolutely critical’ day as Pentagon hopes hang by a thread",1.5306162238121033,2024-12-08
-cnn,Democrats,"Harris campaign ends race with $1.8 million – part of a mixed financial picture for Democrats",1.8225346207618713,2024-12-08
-cnn,Democrats,"Trump’s victory has some liberal judges reversing their retirement plans",1.628658950328827,2024-12-08
-cnn,Republicans,"Fact check: Trump falsely claims he never wanted to end the Affordable Care Act ",0.4724431037902832,2024-12-08
-cnn,Republicans,"Trump has vowed to give green cards to college grads. Could that actually happen?",1.8043518662452698,2024-12-08
-cnn,Republicans,"‘Are you worried Donald Trump will try to put you in jail?’: See Adam Kinzinger’s reaction ",1.8571065664291382,2024-12-08
-cnn,Democrats,"Alexandria Ocasio-Cortez announces bid to become top Democrat on Oversight Committee",1.7787725925445557,2024-12-08
-cnn,Republicans,"Voters elected the most closely divided House since the Great Depression and WWI",0.3738488554954529,2024-12-08
-cnn,Republicans,"Hegseth and Collins’ push for cutting veterans’ health benefits alarms service members and veterans groups",0.45072710514068604,2024-12-08
-cnn,Republicans,"Fact check: Trump, repeating old lies on ‘Meet the Press,’ falsely claims US is the only country with birthright citizenship ",0.39462149143218994,2024-12-08
-cnn,Democrats,"Why green investments have become the last line of defense for Biden’s climate agenda ",1.7663025259971619,2024-12-08
-fox,Democrats,"Biden legacy includes relentless push for transgender agenda",1.7712600231170654,2024-12-08
-fox,Democrats,"Fox News Politics: Tipping the Scales to the Left",1.8288313746452332,2024-12-08
-fox,Republicans,"Trump’s strategy for addressing ongoing conflicts takes center stage at defense forum",1.8320868015289307,2024-12-08
-fox,Republicans,"Congress eyes 14.5% pay hike for junior troops, limits on transgender treatment in $895B defense bill",1.860341727733612,2024-12-08
-fox,Republicans,"Internal House GOP memo reveals what Republicans are celebrating in $895B defense bill",1.6756550669670105,2024-12-08
-fox,Republicans,"Nancy Mace ‘loves’ Trump’s unconventional admin picks: ‘We have no time to waste’",2.8606537580490112,2024-12-08
-fox,Republicans,"Trump names Alina Habba as counselor to the president; reveals several State Department picks",1.9367019534111023,2024-12-08
-fox,Republicans,"'Political price to pay': Trump orbit expected to ramp up Ernst criticisms while she withholds Hegseth support",0.45983952283859253,2024-12-08
-fox,Republicans,"Trump sends message to Kamala Harris supporters during 'Meet the Press' interview",1.923891544342041,2024-12-08
-fox,Republicans,"Trump features Jill Biden in new ad for fragrance: 'Enemies can't resist'",1.6987833380699158,2024-12-08
-fox,Republicans,"Trump responds after rebels overtake Syria, ousting longtime dictator: ‘Assad is gone’",1.7190576791763306,2024-12-08
-fox,Democrats,"Jon Stewart calls out Democrats' 'gag reflex' when they agree with RFK Jr. or Elon Musk on certain issues",1.733692228794098,2024-12-08
-fox,Republicans,"Lara Trump announces she is stepping down as RNC co-chair amidst talk she may be up for Florida Senate seat",1.8969061374664307,2024-12-08
-fox,Democrats,"Tim Walz admits he was surprised by election defeat: 'Thought the country was ready'",0.4571678638458252,2024-12-08
-fox,Republicans,"Trump nominees lobby for support on Capitol Hill",1.8475398421287537,2024-12-08
-fox,Republicans,"Conservatives worry Congress won't have 'spine' for spending overhaul after DOGE meetings",1.5342267751693726,2024-12-08
-fox,Republicans,"Trump expected to target Biden's climate policies in 2025",1.8402892351150513,2024-12-08
-fox,Republicans,"Donald Trump says he'll pardon Jan. 6 rioters on day one: 'Acting very quickly'",2.546656906604767,2024-12-08
-fox,Democrats,"AOC launches bid for top Democratic role on House Oversight Committee",1.7522810101509094,2024-12-08
-fox,Democrats,"Faith in DOJ plummets as Biden, pardoning Hunter, joins Trump in denouncing the department",0.3426021933555603,2024-12-08
-fox,Democrats,"Fall of Assad regime a 'moment of historic opportunity' for Syrian people, Biden says",1.6224586367607117,2024-12-08
-fox,Republicans,"Trump previews inauguration speech, gives details on plans to dismantle the deep state in NBC interview",1.7530290484428406,2024-12-08
-fox,Republicans,"Trump maintains support for Hegseth",1.7727808952331543,2024-12-08
-fox,Republicans,"Conservative group compiles list of 'woke' senior officers they want Pete Hegseth to fire",0.3888600468635559,2024-12-08
-cnn,Republicans,"Lara Trump to step down from RNC amid speculation over Florida Senate seat",1.7530473470687866,2024-12-09
-cnn,Republicans,"Key lines: Trump’s ‘not playing games,’ he says in interview laying out 100-day agenda ",1.8569372296333313,2024-12-09
-cnn,Republicans,"Trump has big plans at home, but Syria shows why he can’t escape the world’s problems",0.30983686447143555,2024-12-09
-cnn,Republicans,"‘Someone who sees enemies everywhere’: How Kash Patel’s years as a government lawyer fueled his disdain for Washington elites",0.3775712251663208,2024-12-09
-cnn,Republicans,"Sen. Haggerty: Kash Patel focused on cleaning up FBI ",1.9228971600532532,2024-12-09
-cnn,Republicans,"Key GOP senators begin to fall in line to support Kash Patel and keep door open for Pete Hegseth",1.8070809245109558,2024-12-09
-cnn,Republicans,"Trump lays out sweeping early acts on deportation and January 6 pardons, says Cheney and others ‘should go to jail’",0.35701948404312134,2024-12-09
-cnn,Republicans,"Judge pauses lawsuit alleging Trump’s Education secretary pick enabled sexual abuse of children decades ago",0.2722510099411011,2024-12-09
-cnn,Republicans,"Key Republican says she will support Hegseth going through confirmation process ",1.8436885476112366,2024-12-09
-fox,Republicans,"Trump nominates Harmeet Dhillon, Mark Paoletta to key posts, backs KC Crosbie for RNC co-chair",1.8454158902168274,2024-12-09
-fox,Republicans,"Pro-life groups sound off after Trump says he will not restrict abortion pills: 'Serious and growing threat'",0.27338045835494995,2024-12-09
-fox,Republicans,"I worked with Kash Patel to expose the Russia hoax and know he's the best pick to reform the FBI",2.7530367374420166,2024-12-09
-fox,Republicans,"Elon Musk agrees with Ron Paul's call to 'ELIMINATE foreign aid'",1.6534432768821716,2024-12-09
-fox,Republicans,"'Greatest warriors': Hegseth rails against 'misconstrued' narrative that he's against women in military",1.6671317219734192,2024-12-09
-fox,Democrats,"Bill Clinton laments Kamala Harris had 'impossible job,' as only person who could legally use campaign funds",0.36237019300460815,2024-12-09
-fox,Republicans,"John Cornyn 'inclined' to back Trump FBI pick Kash Patel after Senate meeting",1.8817933797836304,2024-12-09
-fox,Republicans,"'The View' co-host promises to 'wear a MAGA hat' if Trump gets Hamas to release the hostages",1.7947295308113098,2024-12-09
-fox,Republicans,"GOP senator questions FBI over reported Iranian hack attempt of Trump pick Kash Patel",1.7306095361709595,2024-12-09
-fox,Republicans,"Pete Hegseth: We look forward to earning these confirmation votes",2.88193142414093,2024-12-09
-fox,Republicans,"Grassley rips Wray's 'failed' leadership at FBI with 11 pages of examples in blistering 'no confidence' letter",0.27897119522094727,2024-12-09
-fox,Republicans,"Fox News Politics: Grassley Rips Wray",1.885759174823761,2024-12-09
-fox,Democrats,"Progressive Dems rage at Biden for giving Trump the spotlight during final weeks in office",0.48097485303878784,2024-12-09
-fox,Republicans,"Elon Musk joins Trump allies in House GOP pressure campaign over social media bill",1.871520221233368,2024-12-09
-fox,Republicans,"Hegseth reveals what happened during pivotal confirmation meeting with Ernst",1.9534549117088318,2024-12-09
-fox,Republicans,"Could Trump be eyeing Kari Lake for a spot in his administration?",1.930038034915924,2024-12-09
-cnn,Republicans,"3 charts that help explain how Trump’s tariffs would work",1.8063200116157532,2024-12-09
-fox,Democrats,"A tale of two cities: Sanctuary city Dems must choose between Americans or illegal immigrants",1.686858594417572,2024-12-09
-fox,Republicans,"How to power the second Trump economic boom",1.606596052646637,2024-12-09
-fox,Democrats,"Dana Loesch: Democrats have to find an identity",1.7231184244155884,2024-12-09
-fox,Republicans,"JESSE WATTERS: While Trump had his eyes on the architecture, the world had its eyes on him",1.7691568732261658,2024-12-09
-fox,Republicans,"This new legislation would give everyone the right to take deepfakes down, says Sen. Ted Cruz",1.695464313030243,2024-12-09
-fox,Republicans,"Trump’s acting like he's already president and no one seems to mind: Tyrus",1.5171152353286743,2024-12-09
-fox,Republicans,"Our country needs a turnaround story to save itself. Elon, Vivek and DOGE can restore our sanity",2.575169265270233,2024-12-09
-fox,Democrats," Laura: If anyone is guilty of criminal negligence, it's the folks like Alvin Bragg",0.17364567518234253,2024-12-09
-fox,Democrats,"5 wild ways Democrats have embraced the Monty Python strategy of politics",1.748371422290802,2024-12-09
-fox,Republicans,"How Elon Musk and Vivek Ramaswamy can make the Secret Service great again",1.5712696313858032,2024-12-09
-fox,Republicans,"Donald Trump inspired my story about a billionaire who saves Christmas for those most in need. Here's how",2.6086891293525696,2024-12-09
-fox,Republicans,"The world was ready for someone to ‘take the reins’: Rep. Anna Paulina Luna",1.844594657421112,2024-12-09
-fox,Democrats,"Biden’s three biggest lies about his family’s shady business dealings",0.31848156452178955,2024-12-09
-fox,Democrats,"We have to assume Biden has some ‘nutcase, left-wing staffers’ doing dangerous things, says Newt Gingrich",0.3788335919380188,2024-12-09
-fox,Republicans,"Trump can fix the illegal immigration crisis and make them pay for it, too",0.444078266620636,2024-12-09
-fox,Democrats,"We're Democrats. Biden should not have pardoned Hunter. Now he should pardon Trump",0.3592287302017212,2024-12-09
-fox,Democrats,"ANDREW McCARTHY: The real reason Hunter Biden's pardon goes all the way back to 2014",1.577537178993225,2024-12-09
-fox,Democrats,"Biden spent millions on ‘misinformation’ research. The details are even more disturbing than you think",0.10081899166107178,2024-12-09
-fox,Republicans,"Republican influencer reveals plans to turn New Jersey red after helping Trump win Pennsylvania",1.8353129029273987,2024-12-09
-fox,Republicans,"DAVID MARCUS: Triumphant Trump at Notre Dame signals America and the West are back",2.6582794189453125,2024-12-09
-fox,Democrats,"JONATHAN TURLEY: ANTIFA gear for kids? Democrats think it's cute to flaunt support for violent group",0.29440397024154663,2024-12-09
-fox,Democrats,"Watch Trump reverse Biden's dumpster-fire economy, and then watch Dems try to take credit for the success",0.5126782655715942,2024-12-09
-fox,Republicans,"Trump can unleash a housing boom by ending the 'endangered species' scam",1.568047285079956,2024-12-09
-fox,Republicans,"Elon and Vivek should tackle US funding for this boondoogle organization and score a multimillion dollar win",1.650229036808014,2024-12-09
-fox,Republicans," Sean Hannity: Justice was served in New York City",1.606236755847931,2024-12-09
-cnn,Democrats,"US charges two former Syrian officials for allegedly torturing Americans and Syrian nationals",0.24351823329925537,2024-12-10
-cnn,Republicans,"Trump’s DOJ secretly obtained records of his FBI pick Kash Patel, lawmakers, staffers and media in leak investigations",1.6579048037528992,2024-12-10
-cnn,Republicans,"How Trump is giving the labor movement the blue-collar blues",1.49380823969841,2024-12-10
-cnn,Democrats,"Federal court divided over Idaho’s abortion ban and emergency care fight ",1.5004246234893799,2024-12-10
-cnn,Democrats,"US rushes to uncover new information on whereabouts of Austin Tice after collapse of Syrian regime",1.891875684261322,2024-12-10
-cnn,Democrats,"Biden administration races to secure a ceasefire in Gaza with Trump’s backing",1.655023217201233,2024-12-10
-cnn,Republicans,"Mitch McConnell sprains wrist and cuts his face after fall in the Capitol",0.2927420139312744,2024-12-10
-cnn,Republicans,"Key lines: Trump’s ‘not playing games,’ he says in interview laying out 100-day agenda",1.8491110801696777,2024-12-10
-cnn,Republicans,"Senate GOP blocks bill to protect journalists after Trump opposes it",0.41903477907180786,2024-12-10
-cnn,Republicans,"Trump selects Andrew Ferguson as pick for Federal Trade Commission chair",1.9202640652656555,2024-12-10
-cnn,Democrats,"Justice Ketanji Brown Jackson to make Broadway debut in ‘& Juliet’",1.913405179977417,2024-12-10
-cnn,Democrats,"After Trump’s reelection, Democrats bail on bipartisan bill that would create new federal judges",1.8216105699539185,2024-12-10
-cnn,Democrats,"Voters elected the most closely divided House since the Great Depression and WWI ",0.4304013252258301,2024-12-10
-cnn,Republicans,"See moment Postmaster General covers his ears during oversight hearing ",1.842750072479248,2024-12-10
-cnn,Democrats,"Why the US has birthright citizenship and how Trump could challenge it ",1.8954219222068787,2024-12-10
-cnn,Republicans,"Growing momentum for Cabinet picks who could define Trump’s second term",2.5101519227027893,2024-12-10
-cnn,Republicans,"Supreme Court is poised to weaken environmental review of infrastructure projects",0.38062000274658203,2024-12-10
-cnn,Republicans,"Trump chooses Kimberly Guilfoyle as his pick for Greece ambassador",1.8090453147888184,2024-12-10
-cnn,Democrats,"Sen. Murphy on his biggest concerns with Syria’s future ",1.8661420345306396,2024-12-10
-cnn,Republicans,"Manhattan DA and state AG say Trump’s criminal and civil cases in New York should not be dismissed because he’s president",1.6839154362678528,2024-12-10
-cnn,Republicans,"As Trump’s legal cloud lifts, 45 allies still threatened by state-level 2020 election charges",0.39448392391204834,2024-12-10
-fox,Republicans,"LIZ PEEK: Trump just outfoxed Biden and his corrupt family. Again",2.5286776423454285,2024-12-10
-fox,Democrats,"Jesse Watters: Democrats are still living in a bubble and the party's in shambles",0.18072545528411865,2024-12-10
-fox,Republicans,"Morning Glory: Trump and Congressional Republicans need to fast-track the budget",1.7669901251792908,2024-12-10
-fox,Republicans,"Incoming border czar warns sanctuary city mayors 'Get the hell out of the way' or be prosecuted",0.22650361061096191,2024-12-10
-fox,Democrats,"'Seen and Unseen': Biden channels the 'Ghost of Christmas Past'",1.8848771452903748,2024-12-10
-fox,Republicans," How President-elect Donald Trump unraveled the media's business model",1.7531731724739075,2024-12-10
-fox,Republicans,"These are ‘really strong candidates’ with amazing backgrounds, says Alina Habba on Trump’s Cabinet picks",2.9496594667434692,2024-12-10
-fox,Democrats,"Drones swarm New Jersey as governor dismisses concern for public safety",1.5043052434921265,2024-12-10
-fox,Republicans,"Morning Glory: How to power the second Trump economic boom",2.708183169364929,2024-12-10
-fox,Democrats,"Democrats in this blue state double down on protecting criminal migrants. For one silly reason",0.10085934400558472,2024-12-10
-fox,Republicans,"Trump just outfoxed Biden and his corrupt family. Again",2.469543993473053,2024-12-10
-fox,Democrats,"Democratic governors refuse to say how old is too old for 2028 nominee",1.6402750611305237,2024-12-10
-fox,Democrats,"MSNBC’s O'Donnell, Psaki and Wagner hit all-time viewership lows despite busy news week",1.6494657397270203,2024-12-10
-cnn,Republicans,"Rep. Nancy Mace says she was ‘physically accosted’ on Capitol grounds",0.45783787965774536,2024-12-11
-cnn,Republicans,"Justice Department’s storied Civil Rights Division will fight DEI under Trump",1.7979060411453247,2024-12-11
-cnn,Democrats,"Democratic governors quietly prep extensive plans to counter Trump",1.8699053525924683,2024-12-11
-cnn,Republicans,"CNN Poll: Most Americans approve how Trump is handling his return to the White House",2.6510015726089478,2024-12-11
-cnn,Republicans,"Former top Biden aide slams Hunter Biden pardon rollout strategy",0.3549172282218933,2024-12-11
-cnn,Republicans,"House passes defense policy bill that bans gender-affirming care for transgender children",0.4500948190689087,2024-12-11
-cnn,Democrats,"First lady Jill Biden shines a light on vast funding and research disparities on women’s health ",1.775288462638855,2024-12-11
-cnn,Democrats,"Biden faces mounting pressure to protect immigrants before Trump takes office",1.7707565426826477,2024-12-11
-cnn,Democrats,"Federal court divided over Idaho’s abortion ban and emergency care fight",1.5152509212493896,2024-12-11
-cnn,Republicans,"FBI Director Chris Wray to resign at end of Biden term, clearing way for Trump pick",1.793393611907959,2024-12-11
-cnn,Republicans,"William Hennessy, a veteran sketch artist who brought courtroom scenes to the nation, has died",1.627133548259735,2024-12-11
-cnn,Republicans,"Kristi Noem is Trump’s Homeland Security pick, but some South Dakota residents say she neglected her own state",1.6067861318588257,2024-12-11
-cnn,Republicans,"Axios: RFK wants daughter-in-law to lead CIA and re-open investigation into JFK’s assassination ",1.9278234839439392,2024-12-11
-cnn,Democrats,"Why the US has birthright citizenship and how Trump could challenge it",1.869814932346344,2024-12-11
-cnn,Democrats,"Biden says he’ll veto bill that would let Trump nominate more judges",0.41785556077957153,2024-12-11
-cnn,Republicans,"Trump takeover of Washington begins as he holds court from Palm Beach",1.8481364250183105,2024-12-11
-cnn,Democrats,"Biden facing pressure to grant additional pardons ",1.881288468837738,2024-12-11
-cnn,Republicans,"US scrambles to quell ISIS resurgence in Syria after fall of Assad",1.6533525586128235,2024-12-11
-cnn,Republicans,"North Carolina’s GOP-controlled legislature erodes incoming Democrats’ political powers",1.7731595635414124,2024-12-11
-cnn,Republicans,"Trump to be named Time’s ‘Person of the Year’ for second time",1.502961814403534,2024-12-11
-fox,Republicans," Kash Patel will be 'absolutely transparent' as FBI director, Sen. Josh Hawley says",1.7245826125144958,2024-12-11
-fox,Republicans,"Chicago residents slam the 'stupidity' of Mayor Brandon Johnson's liberal policies during city council meeting",0.49095577001571655,2024-12-11
-fox,Republicans,"FBI Director Wray is out. Don't tear down the Bureau next. Make it great again",1.4748159348964691,2024-12-11
-fox,Republicans,"We need to know whether the drones over New York and New Jersey pose a threat to the homeland",1.617301344871521,2024-12-11
-fox,Republicans,"NEWT GINGRICH: Biden may be president but Trump is already leader of the free world",1.7297570705413818,2024-12-11
-fox,Republicans,"I shouted at Secret Service chief Rowe over intolerable fails. These 3 disasters must be fixed now",0.13805723190307617,2024-12-11
-fox,Republicans,"Don’t let Biden sneak in more Medicare cuts on his way out the door",0.36511164903640747,2024-12-11
-fox,Democrats,"'60 Minutes' reporter Lesley Stahl is 'extremely worried' about legacy media",1.5937117338180542,2024-12-11
-fox,Republicans,"Pete Hegseth meets with Susan Collins for more than an hour, welcomes FBI background check",1.6329285502433777,2024-12-11
-fox,Republicans,"Time magazine to name Trump 2024 Person of the Year: report",1.8820543885231018,2024-12-11
-fox,Republicans,"Ivy League professor argues colleges put feelings over truth",1.4945805370807648,2024-12-11
-fox,Democrats,"Assad's departure surprised Biden, US leaders. Now America must step up and seize the moment",1.6088894605636597,2024-12-11
-fox,Republicans,"Return of Trump gives families of Gaza hostages new hope",2.734471380710602,2024-12-11
-fox,Democrats,"NJ state senator provides updates on mysterious drones",1.9445288181304932,2024-12-11
-fox,Republicans,"America’s most successful entrepreneurs are wintering in Palm Beach: Jesse Watters",2.70918732881546,2024-12-11
-fox,Republicans,"Newt Gingrich: Trump wants to be on offense",1.8543043732643127,2024-12-11
-fox,Republicans,"Laura: Poisonous teachings of radical revolutionaries echo through lecture halls of top schools",0.2389230728149414,2024-12-11
-fox,Republicans,"Daniel Penny says he wants to thank NYC jurors for their 'courage': 'Like to give them a hug'",2.8248478770256042,2024-12-11
-fox,Republicans,"How Trump can pull the plug on Paris climate accord and end this treaty for good",0.47173523902893066,2024-12-11
-fox,Democrats,"DAVID MARCUS: Call me an optimist but I don't believe Americans are celebrating murder",0.24993163347244263,2024-12-11
-fox,Republicans,"JOHN RICH: Let's strengthen the Second Amendment and make America safe again",2.7541609406471252,2024-12-11
+cnn,Republicans,"FBI Director Chris Wray to resign at end of Biden term, clearing way for Trump pick",0.024363577365875244,2024-12-11
+cnn,Republicans,"How these older voters who backed Harris are engaging in ‘quiet resistance’ ",0.01485210657119751,2024-12-11
+cnn,Democrats,"Biden faces mounting pressure to protect immigrants before Trump takes office",1.9979458451271057,2024-12-11
+cnn,Republicans,"William Hennessy, a veteran sketch artist who brought courtroom scenes to the nation, has died",0.0096169114112854,2024-12-11
+cnn,Democrats,"DOGE, meet REGO. 32 years before Elon Musk, Al Gore did it",1.9937824606895447,2024-12-11
+cnn,Republicans,"In pictures: Trump running mate JD Vance ",1.9858580231666565,2024-12-11
+cnn,Republicans,"Trump selects Andrew Ferguson as pick for Federal Trade Commission chair",1.9962833523750305,2024-12-11
+cnn,Democrats,"First lady Jill Biden shines a light on vast funding and research disparities on women’s health",1.998534083366394,2024-12-11
+cnn,Democrats,"Trump has big plans at home, but Syria shows why he can’t escape the world’s problems",0.0008925795555114746,2024-12-11
+cnn,Democrats,"How two New York tragedies exposed the failure of politics in a fraught American moment ",0.02012181282043457,2024-12-11
+cnn,Democrats,"Fact check: Trump falsely claims he never wanted to end the Affordable Care Act ",0.0015668272972106934,2024-12-11
+cnn,Republicans,"CNN Poll: Most Americans approve how Trump is handling his return to the White House",1.998788297176361,2024-12-11
+cnn,Republicans,"Supreme Court is poised to weaken environmental review of infrastructure projects",0.002054750919342041,2024-12-11
+cnn,Democrats,"Fact check: Trump, repeating old lies on ‘Meet the Press,’ falsely claims US is the only country with birthright citizenship ",0.0009845495223999023,2024-12-11
+cnn,Republicans,"Voters elected the most closely divided House since the Great Depression and WWI ",1.991709291934967,2024-12-11
+cnn,Republicans,"House passes defense policy bill that bans gender-affirming care for transgender children",0.0029647350311279297,2024-12-11
+cnn,Republicans,"Key lines: Trump’s ‘not playing games,’ he says in interview laying out 100-day agenda",1.9986479878425598,2024-12-11
+cnn,Democrats,"Manhattan DA and state AG say Trump’s criminal and civil cases in New York should not be dismissed because he’s president",1.9816777110099792,2024-12-11
+cnn,Republicans,"Explore key dates, events and deadlines for the 2024 election ",1.9983494281768799,2024-12-11
+cnn,Republicans,"Justice Department’s storied Civil Rights Division will fight DEI under Trump",1.9910647869110107,2024-12-11
+cnn,Democrats,"Biden says he’ll veto bill that would let Trump nominate more judges",0.0005950927734375,2024-12-11
+cnn,Republicans,"As Trump’s legal cloud lifts, 45 allies still threatened by state-level 2020 election charges",0.025042414665222168,2024-12-11
+cnn,Republicans,"Republican Gov. Sanders calls for ban on junk food purchases under SNAP program ",0.0010952949523925781,2024-12-11
+cnn,Democrats,"Democratic governors quietly prep extensive plans to counter Trump",0.0038040876388549805,2024-12-11
+cnn,Republicans,"Even Iowa Republicans who initially wanted to move on from Trump see hope — and a mandate — in his win ",1.9986020922660828,2024-12-11
+cnn,Republicans,"Kristi Noem is Trump’s Homeland Security pick, but some South Dakota residents say she neglected her own state",0.0014563798904418945,2024-12-11
+cnn,Republicans,"Trump takeover of Washington begins as he holds court from Palm Beach",0.003887355327606201,2024-12-11
+cnn,Republicans,"How Trump is giving the labor movement the blue-collar blues",0.0031821727752685547,2024-12-11
+cnn,Republicans,"Trump’s DOJ secretly obtained records of his FBI pick Kash Patel, lawmakers, staffers and media in leak investigations",0.0022190213203430176,2024-12-11
+cnn,Republicans,"Rep. Nancy Mace says she was ‘physically accosted’ on Capitol grounds ",0.0005822181701660156,2024-12-11
+cnn,Republicans,"Rogan: Insurance industry is ‘dirty.’ Will corporate America change behavior after a CEO’s murder? ",0.009589672088623047,2024-12-11
+cnn,Democrats,"Federal court divided over Idaho’s abortion ban and emergency care fight",0.006708025932312012,2024-12-11
+cnn,Democrats,"Why the US has birthright citizenship and how Trump could challenge it",0.013341248035430908,2024-12-11
+cnn,Republicans,"North Carolina’s GOP-controlled legislature erodes incoming Democrats’ political powers",0.0014306306838989258,2024-12-11
+cnn,Republicans,"Former top Biden aide slams Hunter Biden pardon rollout strategy",0.0007538795471191406,2024-12-11
+cnn,Republicans,"Trump to be named Time’s ‘Person of the Year’ for second time",1.997862160205841,2024-12-11
+cnn,Republicans,"Hegseth has a history of supporting controversial policies involving the military ",0.004035472869873047,2024-12-11
+cnn,Democrats,"Why green investments have become the last line of defense for Biden’s climate agenda ",1.9980143308639526,2024-12-11
+cnn,Republicans,"US scrambles to quell ISIS resurgence in Syria after fall of Assad",1.9693825244903564,2024-12-11
+cnn,Democrats,"US rushes to uncover new information on whereabouts of Austin Tice after collapse of Syrian regime",1.9942527413368225,2024-12-11
+cnn,Republicans,"Trump chooses Kimberly Guilfoyle as his pick for Greece ambassador",1.9971513152122498,2024-12-11
+cnn,Republicans,"Biden administration races to secure a ceasefire in Gaza with Trump’s backing",1.998106837272644,2024-12-11
+cnn,Republicans,"Before DOGE, Ramaswamy spent years attacking Musk for ties to China ",0.01023167371749878,2024-12-11
+cnn,Republicans,"US charges two former Syrian officials for allegedly torturing Americans and Syrian nationals",0.002925395965576172,2024-12-11
+cnn,Democrats,"In pictures: Harris running mate Tim Walz ",1.993996262550354,2024-12-11
+cnn,Democrats,"In pictures: A historic race for the White House ",1.998315453529358,2024-12-11
+cnn,Democrats,"Justice Ketanji Brown Jackson to make Broadway debut in ‘& Juliet’",1.9979641437530518,2024-12-11
+cnn,Republicans,"Mitch McConnell sprains wrist and cuts his face after fall in the Capitol",0.0013446807861328125,2024-12-11
+cnn,Republicans,"Senate GOP blocks bill to protect journalists after Trump opposes it",0.0007739067077636719,2024-12-11
+cnn,Republicans,"Growing momentum for Cabinet picks who could define Trump’s second term",1.9987432360649109,2024-12-11
+cnn,Republicans,"What will be the signature achievement of Trump 2.0?",1.9941564798355103,2024-12-11

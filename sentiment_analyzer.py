@@ -12,11 +12,9 @@ def analyze_sentiment(headlines):
   for sentiment in raw_sentiments:
     print(sentiment)
 
-    if sentiment["label"] == "negative":
+    if sentiment["label"] == "NEGATIVE":
       sentiments.append(1 - sentiment["score"])
-    elif sentiment["label"] == "neutral":
+    elif sentiment["label"] == "POSITIVE":
       sentiments.append(1 + sentiment["score"])
-    elif sentiment["label"] == "positive":
-      sentiments.append(2 + sentiment["score"])
 
   return sentiments
