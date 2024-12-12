@@ -10,8 +10,6 @@ def analyze_sentiment(headlines):
   sentiments = []
 
   for sentiment in raw_sentiments:
-    print(sentiment)
-
     if sentiment["label"] == "NEGATIVE":
       sentiments.append(1 - sentiment["score"])
     elif sentiment["label"] == "POSITIVE":
